@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.bg-color{
+    margin-top: 100px;
+    background-color: #fceae8;
+    border: 1px solid transparent;
+    border-radius: 25px;
+}
+
+.cat {
+    background-color: white;
+
+}
+.categories img{
+    width: 100px;
+}
+
+.btn-panda-buy-now{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);    border: none;
+    color: white;
+    border-radius:  8px;
+    padding: 9px 25px;
+}
